@@ -1,1 +1,3 @@
 # discordAIforPersonalServer
+
+Discordに個人用のサーバーがある人向けのAIチャットボットのプロトタイプを作成する
