@@ -70,7 +70,7 @@ class MyClient(discord.Client):
                     "content": message
                 }])
             else:
-                
+                pass
 
     @tasks.loop(seconds=30)
     async def circle_message(self):
