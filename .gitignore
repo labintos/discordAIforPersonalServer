@@ -1,0 +1,5 @@
+.vscode/
+
+# Ignore environment variable files
+*.json
+.env
